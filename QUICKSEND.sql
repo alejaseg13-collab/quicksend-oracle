@@ -25,7 +25,7 @@
    Motor       : Oracle Database 19c / 21c
    Esquema     : QUICKSEND
    Version     : 1.0.0
-   Autor       : Arquitecto BD Senior
+   Autores     : Sebastián Gil - Valery Liñán
    Compatible  : Oracle SQL Developer / SQL*Plus
    ================================================================
 
